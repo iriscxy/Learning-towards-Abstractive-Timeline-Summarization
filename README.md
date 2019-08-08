@@ -23,7 +23,7 @@ We appreciate your citation if you find our dataset is beneficial.
 ```
 @inproceedings{chen2019timeline,
   title={Learning towards Abstractive Timeline Summarization},
-  author={Xiuying Chen, Zhangming Chan, Shen Gao, \\ Meng-Hsuan Yu, Dongyan Zhao, Rui Yan},
+  author={Xiuying Chen, Zhangming Chan, Shen Gao, Meng-Hsuan Yu, Dongyan Zhao, Rui Yan},
   booktitle = {IJCAI},
   year = {2019}
 }
