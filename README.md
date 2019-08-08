@@ -4,7 +4,7 @@
 This repository contains dataset for the IJCAI 2019 paper Learning towards Abstractive Timeline Summarization. 
 
 # About the corpus
-MTS corpus consists of 179423 document-summary pairs, with 169,423 training pairs, 5000 validation and test pairs.
+MTS corpus consists of 179,423 document-summary pairs, with 169,423 training pairs, 5000 validation and test pairs.
 
 
 # How to get MTS corpus?
